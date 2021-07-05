@@ -6,8 +6,6 @@ Please see the blog posts for a detailed description of this project.
 
 YouTube video presenting my results:
 
-Summary from the blog post part 1/5
-
 **Project In Brief - TLDR** 
 - Under my laboratory conditions, *Serpae tetra* fish exhibit aperiodic, "bursty" movement patterns---typically, one fish begins chasing another when the two get too close together. [[video]](link)
 - **I hypothesized that**  ConvLSTM would be particularly well-suited to model these dynamics. The underlying assumption is that the fishes' prior dynamics encodes some information on if/when a burst is likely to occur.
