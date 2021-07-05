@@ -19,4 +19,3 @@ YouTube video presenting my results:
 2. Report my methods and findings in detail
 3. Explain key parts of my python-keras-tensorflow code.
 4. Provide a step-by-step guide outlining the subtasks required to take a project like this from start to finish.  
-{: .notice--success}
